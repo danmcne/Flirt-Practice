@@ -1,0 +1,65 @@
+Hospital nurse, night rotation | 22 | 64
+Welder in a fabrication shop | 20 | 64
+Elementary school teacher | 23 | 66
+Long-haul truck driver | 24 | 62
+Veterinary technician | 21 | 66
+Corporate tax accountant | 24 | 66
+Barista, studying part-time | 19 | 30
+Hairdresser, rents her own chair | 23 | 66
+Structural engineer | 24 | 68
+Warehouse team leader | 22 | 62
+Butcher | 20 | 66
+Hotel housekeeper | 19 | 66
+Radiographer | 23 | 68
+Corrections officer | 23 | 58
+City bus driver | 24 | 64
+Software tester | 21 | 64
+Insurance claims adjuster | 21 | 66
+Nursing home care worker | 19 | 68
+Farmer, dairy | 21 | 68
+Florist | 19 | 68
+Physiotherapist | 23 | 68
+Bank branch manager | 30 | 62
+Freelance translator, Russian and English | 19 | 68
+Waitress at a chain restaurant | 19 | 60
+Air traffic controller | 24 | 58
+Postal carrier | 19 | 64
+Dental hygienist | 21 | 66
+PhD student in geology | 24 | 38
+Unemployed six months, actively looking | 19 | 60
+Between jobs deliberately, living off savings | 24 | 60
+Not currently working, previously a paralegal | 25 | 50
+Retired high school teacher | 58 | 68
+Sign language interpreter | 23 | 68
+Electrician, self-employed | 24 | 66
+Pharmacist | 25 | 68
+Baker, starts at 04:00 | 20 | 64
+Child protection social worker | 24 | 64
+Paralegal | 21 | 68
+Tattoo artist | 21 | 55
+Bartender, four nights a week | 19 | 55
+Fitness instructor | 19 | 58
+Museum conservator, textiles | 27 | 66
+Recruitment consultant | 22 | 64
+Midwife | 23 | 62
+Construction cost estimator | 24 | 68
+Optician | 24 | 68
+Call centre supervisor | 22 | 62
+Tailoring and alterations, own shop | 24 | 68
+Ambulance dispatcher | 21 | 64
+Court reporter | 23 | 68
+Real estate agent | 22 | 62
+Marine biologist, away four months a year | 25 | 62
+Cleaner, runs her own small crew | 24 | 66
+Sommelier | 24 | 60
+Piano teacher, private students | 21 | 68
+Large-animal vet | 26 | 66
+Data analyst for a supermarket chain | 22 | 66
+Reporter, local newspaper | 22 | 68
+Line cook, restaurant kitchen | 20 | 45
+Occupational therapist | 24 | 68
+Funeral director | 28 | 68
+Flight attendant, short haul | 21 | 50
+Locksmith | 21 | 68
+Speech therapist | 24 | 68
+Wind turbine technician | 21 | 55

@@ -1,0 +1,51 @@
+# SETTING | HER MOBILITY | AUDIENCE | TIME PRESSURE | STAFF ROLE (- if none)
+Independent bookshop, weekday afternoon | free | none | low | bookseller
+Public library reading room | free | strangers, quiet norms | low | librarian
+Laundromat, 21:40, two machines running | anchored | one other patron | medium | -
+Hardware store, plumbing aisle | free | none | low | shop assistant
+Municipal pool deck between lane sessions | semi | swimmers, lifeguard | medium | lifeguard
+Long-distance train, facing seats at a shared table | anchored | carriage | low | -
+Airport gate, flight delayed 90 minutes | semi | crowd | medium | -
+Farmers market, mid-morning | free | stallholders | low | stallholder
+Dog park | semi | other owners | low | -
+Hospital outpatient waiting area | anchored | patients | high | -
+Community garden, shared tool shed | free | two other plot-holders | low | -
+Climbing gym, bouldering mats | free | climbers | low | route setter
+Wine bar, standing room, Friday | free | bar crowd | medium | bar staff
+Nightclub, edge of the dance floor, very loud | free | her group | medium | bar staff
+Quiet cocktail bar, 22:00 | semi | few patrons | low | bartender
+Beach, mid-afternoon, half full | semi | beachgoers | low | -
+Ferry crossing, 40 minutes, on deck | anchored | passengers | medium | -
+University lecture hall, ten minutes before class | anchored | students | high | -
+Coworking space kitchen | free | colleagues in earshot | medium | -
+Wedding reception, between courses | semi | full table | medium | -
+Art gallery opening, free wine | free | art crowd | low | gallery assistant
+Second-hand record shop | free | one clerk | low | shop clerk
+Bus shelter in heavy rain | anchored | one other person | medium | -
+Gym, free-weight area | free | gym crowd | medium | -
+Yoga studio lobby after a class | semi | class emptying | medium | yoga teacher
+Coffee shop, one free table, she has the other half | anchored | cafe | low | barista
+Supermarket checkout, long wait | anchored | queue | high | -
+Pharmacy, waiting on a prescription | anchored | queue | high | -
+Government office, numbered-ticket waiting area | anchored | crowd | medium | -
+Language exchange meetup, rotating pairs | anchored | organisers, other pairs | high | -
+Board game cafe, open table | semi | players | low | cafe staff
+Karaoke bar, between songs | free | her group | medium | bar staff
+Music festival, campsite in the afternoon | free | neighbouring tents | low | -
+Ski lift chair, seven minutes to the top | anchored | none | high | -
+Hostel common room, evening | free | travellers | low | hostel receptionist
+Place of worship, refreshments after the service | free | congregation | medium | -
+Beginners cooking class, paired at a station | anchored | instructor, class | high | -
+Hotel bar, both travelling for work | semi | business travellers | low | bartender
+Car repair waiting room | anchored | two others | medium | service adviser
+Bike shop, waiting on a tube change | semi | mechanic | medium | bike mechanic
+Street food stand, 02:10, after closing time | anchored | drunk queue | medium | -
+Open-mic night, between acts | semi | audience | low | -
+Charity 5k finish area | free | runners, marshals | medium | race marshal
+Ferry terminal cafe, sailing cancelled | free | stranded passengers | low | -
+Furniture showroom, both looking at the same sofa | free | staff | low | sales assistant
+Polling place on election day, long wait | anchored | queue | medium | -
+Night bus, upper deck, half empty | anchored | few passengers | medium | -
+Hotel breakfast buffet, both alone | semi | guests | low | -
+Vet's waiting room | anchored | pet owners | medium | veterinary nurse
+Rooftop bar, sunset, busy | free | crowd | low | bar staff

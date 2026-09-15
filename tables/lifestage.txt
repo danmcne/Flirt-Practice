@@ -1,0 +1,29 @@
+# STATUS | AVAILABILITY | LEGIBILITY | MIN AGE | MAX AGE
+# Children are NOT encoded here. They are drawn once, from kids.txt against
+# her age and the locale, and combine freely with any row below.
+Single a long time, entirely comfortable with it | open | invisible | 24 | 68
+Single, out of a four-year relationship eight weeks ago | low | semi | 23 | 60
+Single, out of a bad relationship a year ago, cautious | open | invisible | 21 | 60
+Casually seeing two people, no commitment | open | invisible | 21 | 50
+Six weeks into something undefined with someone | low | invisible | 19 | 55
+In a solid two-year relationship | closed | semi | 20 | 68
+In a four-year relationship that is quietly ending | closed | invisible | 23 | 60
+Engaged, wedding in five months | closed | legible | 22 | 50
+Married, happily, three years | closed | legible | 23 | 68
+Married, unhappily, eleven years | closed | semi | 33 | 68
+Married but separated; nobody knows yet | closed | invisible | 27 | 60
+Divorced three years ago, dating again and enjoying it | open | invisible | 28 | 68
+Divorced four months ago, not ready | closed | invisible | 26 | 68
+Widowed two years ago | low | invisible | 32 | 68
+Partner lives in another country | closed | invisible | 21 | 55
+No free time at all; every evening is already committed | low | semi | 22 | 55
+Dating again after a long gap, deliberately careful about it | open | semi | 27 | 60
+Married, six years | closed | legible | 24 | 50
+Newly single after a marriage that lasted twenty years | open | invisible | 44 | 68
+In an open relationship, partner knows | open | invisible | 23 | 55
+Not attracted to men | closed | invisible | 19 | 68
+Taking a deliberate year without dating | closed | invisible | 22 | 60
+Just moved cities to follow a partner | closed | invisible | 21 | 45
+Seeing someone casually who will not commit; unhappy about it | low | invisible | 21 | 45
+Single, actively looking, on three apps | open | invisible | 21 | 55
+Long-term single, has decided she prefers it, occasionally doubts | low | invisible | 30 | 68

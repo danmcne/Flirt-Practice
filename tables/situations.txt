@@ -1,0 +1,33 @@
+# HER SITUATION | ROLE (staff / owner / any) | LEGIBILITY
+Working here, on shift, her manager is visible | staff | obvious
+Working here, on shift, dead quiet, bored | staff | obvious
+Working here, covering someone else's shift, resents it | staff | semi
+Owns the place | owner | semi
+Customer, alone, in a hurry | any | obvious
+Customer, alone, unhurried | any | semi
+Here with one close friend | any | obvious
+Here with a group of four friends | any | obvious
+Here with her sister | any | semi
+Here with her mother | any | obvious
+Here with her young child | any | obvious
+Waiting for someone who is running late | any | semi
+Waiting for someone who is not going to come | any | hidden
+Here for work but off duty | any | hidden
+A regular; knows the staff by name | any | semi
+First time here, slightly lost | any | semi
+Killing time before an appointment | any | hidden
+Just finished something demanding | any | semi
+On a ten-minute break from work nearby | any | hidden
+Alone deliberately; came here for solitude | any | hidden
+Alone by accident; her friends cancelled | any | hidden
+Third-wheeling a couple who are ignoring her | any | obvious
+Responsible for someone else here (elderly parent, niece) | any | obvious
+Running an errand for someone else | any | hidden
+Photographing or documenting the event for work | any | semi
+Volunteering here | any | obvious
+Working on a laptop, deadline tonight | any | obvious
+Reading something she is genuinely absorbed in | any | obvious
+Wedged between two obligations, twenty minutes free | any | hidden
+Meeting a first date here in thirty minutes | any | hidden
+Just been stood up, ten minutes ago | any | hidden
+Here because someone else insisted she come out | any | hidden

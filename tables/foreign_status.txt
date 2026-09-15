@@ -1,0 +1,11 @@
+# STATUS | WEIGHT | SHARED LANGUAGE | CALIBRATION | NOTE
+# 'Foreign' here means she reads the room by another country's rules. It is
+# not ethnicity — the NAMES column in locales.txt already carries the mixed
+# populations that are native to a place. A second-generation Turkish Berliner
+# is a Berliner; a Berliner in her second month in Bari is not.
+Tourist, here four days | 22 | English, or the local language attempted badly | none — she is reading you entirely by the norms of home | she leaves this week and both of you know it
+On a long holiday, three weeks in | 10 | English, or the local language attempted badly | none — she is reading you entirely by the norms of home | long enough to have opinions about the place, short enough that they are wrong
+Exchange student, one semester | 14 | the local language, functional and effortful | partial and recent — she has learned the rules as rules, not as instincts | her whole social world is other foreigners and she is aware of it
+Here on a work contract, several months | 14 | English, and she is better at it than he is | partial and recent — she has learned the rules as rules, not as instincts | a fixed end date exists and she knows it
+Moved here for work two years ago, still calibrating | 20 | the local language, fluent enough, accented | partial — she over-corrects, and is unsure which of her reactions are hers | she is not going anywhere but she is not from here either
+Moved here years ago, embedded, fluent | 20 | the local language, fluent | near-complete — she reads the room the way a local does, with one blind spot she cannot see | people here assume she is local until she says otherwise

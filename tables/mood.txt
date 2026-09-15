@@ -1,0 +1,27 @@
+# MOOD | CAUSE | CAUSE LEGIBILITY (visible / inferable / hidden)
+Buoyant | something went right at work today | inferable
+Buoyant | first day of a holiday | inferable
+Flat | slept four hours | inferable
+Flat | long shift, three hours still to go | visible
+Irritable | a man was rude to her an hour ago | hidden
+Irritable | she is running late and it is not her fault | visible
+Anxious | waiting on a test result | hidden
+Grieving | a death in the family last month | hidden
+Distracted | a family problem at home | hidden
+Relieved | just finished something she had been dreading | inferable
+Bored | waiting, would welcome a distraction | visible
+Guarded | hassled by a stranger earlier today | hidden
+Guarded | this kind of place has burned her before | hidden
+Contented | an ordinary good day | inferable
+Restless | wants something to happen tonight | inferable
+Melancholy | anniversary of something | hidden
+Overstimulated | too loud, too many people, near her limit | visible
+Focused | genuinely absorbed and resents interruption | visible
+Lonely | has not had a real conversation in a fortnight | hidden
+Embarrassed | something just went wrong in public | visible
+Nervous | out of practice at all of this | inferable
+Energised | just exercised hard | visible
+Drained | end of her social capacity for the day | inferable
+Playful | with friends, feeling quick | visible
+Preoccupied | a decision she has to make by Monday | hidden
+Amused | at something that happened just before he arrived | visible
